@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+zookeeper:
+  address: 118.25.193.24:2181
+  timeout: 5000
